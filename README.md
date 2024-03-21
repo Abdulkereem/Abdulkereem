@@ -2,7 +2,7 @@ Hi there! 👋
 
 I am a Principal Software Engineer and Founder, currently decentralizing everything at DockHive INC.
 
-I lead engineering at Shardow Inc & NFTP Technology, and have worked on products like Shardow Search Engine and Shardow Browser.
+I lead engineering at Shardow Inc & NFTPA Technology, and have worked on products like Shardow Search Engine and Shardow Browser.
 
 Outside of normal app development, I've taught others my skills and provided mentorship.
 
