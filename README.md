@@ -2,13 +2,13 @@ Hi there! 👋
 
 I am a Principal Software Engineer and Founder, currently decentralizing everything at DockHive INC.
 
-I lead engineering at Shardow Inc & NFTPA Technology, and have worked on products like Shardow Search Engine and Shardow Browser.
+I lead engineering at Atum.software & NFTPA Technology, and have worked on products like Shardow Search Engine and Shardow Browser.
 
 Outside of normal app development, I've taught others my skills and provided mentorship.
 
 ### Community work
 - 🗣 I've given talks about software engineering and architecture at many conferences.
-- 📝 I blog about programming [here](https://blog.abdulkereem.com).
+- 📝 I blog about programming [here](https://dev.to/ironside).
 
 ### My Expertise
 I focus on maintainable architecture, improving developer experience, and efficiency by:
